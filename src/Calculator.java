@@ -30,6 +30,8 @@ public class Calculator {
 				case 4: System.out.println("The answer is: " + divide);
 				break;
 				case 5: System.exit(0);
+				break;
+				default: System.out.println( "Invalid Entry, Try Again");
 					}
 		//System.out.println(answer);
 		
