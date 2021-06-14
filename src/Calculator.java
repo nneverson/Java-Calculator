@@ -33,7 +33,6 @@ public class Calculator {
 				break;
 				default: System.out.println( "Invalid Entry, Try Again");
 					}
-		//System.out.println(answer);
 		
 		
 		
